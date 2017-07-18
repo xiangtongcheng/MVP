@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\46bbd9231f35631af6bda264c5256ae7f76e522f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\asworkspace\MV-X\MVP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_307bfd82f49b5258709cab105b2c80250c589e90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\asworkspace\MV-X\MVP\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\asworkspace\MV-X\MVP\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_710634b825404cf698547eba22bee4b3679b9735\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\4a80b6924a25acd904d486e8f350ecadd65654c9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\asworkspace\MV-X\MVP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1341eced705eb93dc6d9ca7c4ff6adf2eaf29c1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\1ded5a82092baea75b4315cfb8f9e90533587dcf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\asworkspace\MV-X\MVP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ec78c7c48d70ea7798590bcd444418967405f1ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\da1ae9f39eb8254de40bc3c7e628ed806b0dd83c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\asworkspace\MV-X\MVP\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2986d6dd0deec67d74e39cdf6b729f83559bb11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\asworkspace\MV-X\MVP\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3269bcf17d7b0593086ed01e11e1c6b375d7a375">
+        <dex dex="D:\asworkspace\MV-X\MVP\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_29e63efc346333d49dcf8642ef31f79a9a4e3365\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\4a80b6924a25acd904d486e8f350ecadd65654c9\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\asworkspace\MV-X\MVP\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_cb71e190e8dcce426b13902ce82540bdbd0a3a37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidstudio\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\asworkspace\MV-X\MVP\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_79be3dd4f8cc3dca7edf873b9ec049661ec06bc8\classes.dex" />
+    </item>
+
+</items>
